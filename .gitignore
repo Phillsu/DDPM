@@ -1,0 +1,6 @@
+./data/test/testImg
+./data/train/
+./.idea
+./__pycache__
+./results/
+./venv
